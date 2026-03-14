@@ -67,7 +67,7 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
 <img src=Demos/black-waves.jpg>
 <img src=Demos/gradient-change.jpg>
 <img src=Demos/pacman-colors.png>
-<img src=Demos/neon-green>
+<img src=Demos/neon-green.jpg>
 <img src=Demos/black-stars.jpg>
 
 [**View Full Gallery →**](./gallery)
