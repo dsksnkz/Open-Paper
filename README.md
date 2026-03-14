@@ -82,4 +82,4 @@ You can get wallpapers in several ways:
 
 ### Option 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Open-Paper.git
+git clone https://github.com/duskbladez83-star/Open-Paper.git
