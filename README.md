@@ -64,12 +64,11 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
   
 ### Featured Wallpapers
 
-<img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=Wallpaper+1" width="300" height="200" alt="Preview 1"/>
-<img src="https://via.placeholder.com/300x200/3d3d3d/ffffff?text=Wallpaper+2" width="300" height="200" alt="Preview 2"/>
-<img src="https://via.placeholder.com/300x200/4d4d4d/ffffff?text=Wallpaper+3" width="300" height="200" alt="Preview 3"/>
-<img src="https://via.placeholder.com/300x200/5d5d5d/ffffff?text=Wallpaper+4" width="300" height="200" alt="Preview 4"/>
-<img src="https://via.placeholder.com/300x200/6d6d6d/ffffff?text=Wallpaper+5" width="300" height="200" alt="Preview 5"/>
-<img src="https://via.placeholder.com/300x200/7d7d7d/ffffff?text=Wallpaper+6" width="300" height="200" alt="Preview 6"/>
+<img src=demos/black-waves.jpg>
+<img src=demos/gradient-change.jpg>
+<img src=demos/pacman-colors.png>
+<img src=demos/neon-green>
+<img src=demos/black-stars.jpg>
 
 [**View Full Gallery →**](./gallery)
 
