@@ -7,8 +7,8 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
   
   ### *A curated collection of clean, open-source wallpapers*
   
-  [![GitHub stars](https://img.shields.io/github/stars/duskbladez83-star/Open-Paper?style=social)](https://github.com/duskbladez83-star/Open-Paper/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/duskbladez83-star/Open-Paper?style=social)](https://github.com/duskbladez83-star/Open-Paper/network/members)
+  [![GitHub stars](https://img.shields.io/github/stars/dsksnkz/Open-Paper?style=social)](https://github.com/dsksnkz/Open-Paper/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/dsksnkz/Open-Paper?style=social)](https://github.com/dsksnkz/Open-Paper/network/members)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
   
   <img src=demo1.png/>
@@ -84,7 +84,7 @@ You can get wallpapers in several ways:
 
 ### Option 1: Clone the Repository
 ```bash
-git clone https://github.com/duskbladez83-star/Open-Paper.git
+git clone https://github.com/dsksnkz/Open-Paper.git
 ```
 
 ### Option 2: Download as ZIP
