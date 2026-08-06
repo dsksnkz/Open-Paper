@@ -1,5 +1,4 @@
 # Open-Paper
-Open-Paper: A community-driven repository of minimalist and clean wallpapers. Find your next favorite background, organized by color and style. Free for everyone.
 
 <div align="center">
   
@@ -98,40 +97,7 @@ Download Latest Release
 
 Visit the web preview (coming soon)
 <br>
-Contributing
-
-We welcome contributions from everyone! Here's how you can help:
-🖼️ Add Your Wallpapers
-
-    Fork this repository
-
-    Add your wallpaper(s) to the appropriate category folder
-
-    Name your file descriptively: color-style-name.extension (e.g., blue-minimalist-mountain.jpg)
-
-    Submit a Pull Request
-
-📋 Contribution Guidelines
-
-   - ✅ Wallpapers should be clean and high-quality
-
-   - ✅ Minimum resolution: 1920x1080 (4K preferred)
-
-   - ✅ Include your original work or properly attributed works
-
-   - ✅ Keep file sizes reasonable (<5MB when possible)
-
-   - ❌ No explicit, offensive, or low-quality content
-
-<div align="center">
-⭐ Star this repo if you find it useful!
-
-Made with ❤️ for the open-source community
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </div>
-
-### Acknowledgements
-- Credits to binnewbs from some wallpapers
-- (*If there is any copyright issues please contact me ASAP!)
